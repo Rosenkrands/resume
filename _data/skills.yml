@@ -1,12 +1,13 @@
 # Skills
-# Organizational leadership
 - skill: Machine Learning
   description: Erfaring med anvendelse af mange forskellige machine learning metoder, foruden kendskab til den matematiske baggrund.
 
-# Digital content development and creation
-- skill: Statistik
-  description: Indgående kendskab til statistiske metoder, samt den bagvedliggende matematiske teori.
+# - skill: Statistik
+#   description: Indgående kendskab til statistiske metoder, samt den bagvedliggende matematiske teori.
 
-# Communications strategy
+- skill: Data Visualization
+  description: Visualisering af input og output data som statiske figurer eller interaktive web applikationer fx i R Shiny.
+
 - skill: Data Pipelines
-  description: Establishing data flows from application logs to database.
+  description: Etablering af data flows fra applikation til database.
+
