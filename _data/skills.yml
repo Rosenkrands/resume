@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Machine Learning
+  description: Erfaring med anvendelse af mange forskellige machine learning metoder, foruden kendskab til den matematiske baggrund.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Statistik
+  description: Indgående kendskab til statistiske metoder, samt den bagvedliggende matematiske teori.
+
+# Communications strategy
+- skill: Data Pipelines
+  description: Establishing data flows from application logs to database.
